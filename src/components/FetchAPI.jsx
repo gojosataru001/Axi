@@ -8,6 +8,8 @@ const FetchAPI = () => {
         setPosts(result)
     })
   })})
+  //https://jsonplaceholder.tyicode.com/posts/1
+  //https://jsonplaceholder.tyicode.com/posts
     return (
     <div>
 
